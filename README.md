@@ -1,2 +1,4 @@
-# basic-cli-tools
-learning how systems break and why
+basic cli tools
+
+learning how command line tools work
+written in python
